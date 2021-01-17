@@ -1,0 +1,15 @@
+{
+    "raw": "sha1://da39a3ee5e6b4b0d3255bfef95601890afd80709/raw.mda",
+    "params": null,
+    "geom": [
+        [
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0
+        ]
+    ],
+    "self_reference": "sha1://d6fdcc4e8b65d746e4e60437350fc3bf462d146a/new_recording.json"
+}
